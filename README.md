@@ -39,6 +39,11 @@ You can't access random elements in the queue.
 If you enqueue two items to the list, the first item you added will be dequeued before the second item.
 FIFO data structure = First In, First Out
 
+### Dictionaries
+Worst case scenario = O(n)
+Best case scenario = O(1)
+Retrieving a value by using its key is O(1)
+
 ### Selection sort
 
 To find the highest value you have to check each item in the list. This takes O(n) time and you have to do that n times.
